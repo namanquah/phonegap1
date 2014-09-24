@@ -16,5 +16,8 @@
     <author href="http://www.ashesi.edu.gh" email="namanquah@gmail.com">
         N Amanquah 
     </author>
+    <icon src="icon.png" />
+	<gap:splash  src="splash.png" />
+
 
 </widget>
